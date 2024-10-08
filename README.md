@@ -30,7 +30,7 @@ Ensure you have *Vite* installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/soura07/crypto-marketplace.git
+   git clone https://github.com/soura07/Crypto-Market-Place-Website.git
 
 
 #
